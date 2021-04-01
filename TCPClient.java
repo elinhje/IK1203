@@ -1,10 +1,4 @@
-/**
- * Written by Elin Hjelmestam 2021-02-18
- *
- * This code was generated as part of examination of KTH course IK1203.
- */
-
-package tcpclient;
+//package tcpclient;
 import java.net.*;
 import java.io.*;
 
@@ -85,4 +79,3 @@ public class TCPClient {
         return bytes;
     }
 }
-
